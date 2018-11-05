@@ -32,3 +32,6 @@
 木村深層学習苦手なので、あんちべさんのオススメから。
 - [ゼロから作るDeep Learning ―Pythonで学ぶディープラーニングの理論と実装](https://www.amazon.co.jp/ゼロから作るDeep-Learning-―Pythonで学ぶディープラーニングの理論と実装-斎藤-康毅/dp/4873117585/ref=sr_1_5?s=books&ie=UTF8&qid=1541404868&sr=1-5&keywords=機械学習) <- 読まなきゃ・・・
 
+## 状態空間モデル！って人向け
+- [ビッグデータ時代のマーケティング―ベイジアンモデリングの活用](https://www.amazon.co.jp/%E3%83%93%E3%83%83%E3%82%B0%E3%83%87%E3%83%BC%E3%82%BF%E6%99%82%E4%BB%A3%E3%81%AE%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E2%80%95%E3%83%99%E3%82%A4%E3%82%B8%E3%82%A2%E3%83%B3%E3%83%A2%E3%83%87%E3%83%AA%E3%83%B3%E3%82%B0%E3%81%AE%E6%B4%BB%E7%94%A8-%EF%BC%AB%EF%BC%B3%E7%A4%BE%E4%BC%9A%E7%A7%91%E5%AD%A6%E5%B0%82%E9%96%80%E6%9B%B8-%E4%BD%90%E8%97%A4%E5%BF%A0%E5%BD%A6-ebook/dp/B00MOYKHI0/ref=sr_1_1?s=books&ie=UTF8&qid=1541411904&sr=1-1&keywords=%E3%83%93%E3%83%83%E3%82%B0%E3%83%87%E3%83%BC%E3%82%BF%E6%99%82%E4%BB%A3%E3%81%AE%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0)
+- [データ同化入門](https://www.amazon.co.jp/%E3%83%87%E3%83%BC%E3%82%BF%E5%90%8C%E5%8C%96%E5%85%A5%E9%96%80-%E4%BA%88%E6%B8%AC%E3%81%A8%E7%99%BA%E8%A6%8B%E3%81%AE%E7%A7%91%E5%AD%A6-%E6%A8%8B%E5%8F%A3-%E7%9F%A5%E4%B9%8B/dp/4254127863/ref=sr_1_3?s=books&ie=UTF8&qid=1541411940&sr=1-3&keywords=%E7%B2%92%E5%AD%90%E3%83%95%E3%82%A3%E3%83%AB%E3%82%BF)
