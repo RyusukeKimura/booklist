@@ -27,6 +27,7 @@
 
 - [ビジネス統計学【下】](https://www.amazon.co.jp/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E7%B5%B1%E8%A8%88%E5%AD%A6%E3%80%90%E4%B8%8B%E3%80%91-%E3%82%A2%E3%83%9F%E3%83%BC%E3%83%AB%E3%83%BB%E3%82%A2%E3%82%AF%E3%82%BC%E3%83%AB/dp/4478470936/ref=sr_1_6?s=books&ie=UTF8&qid=1541402560&sr=1-6&keywords=%E7%B5%B1%E8%A8%88%E5%AD%A6%E3%80%80%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9)
 
+- [統計学入門](https://www.amazon.co.jp/統計学入門-蓑谷-千凰彦/dp/4489006985/ref=sr_1_22?s=books&ie=UTF8&qid=1541404691&sr=1-22&keywords=統計学入門)
 
 ## 上級向け
 - [科学と証拠](https://www.amazon.co.jp/%E7%A7%91%E5%AD%A6%E3%81%A8%E8%A8%BC%E6%8B%A0%E2%80%95%E7%B5%B1%E8%A8%88%E3%81%AE%E5%93%B2%E5%AD%A6-%E5%85%A5%E9%96%80%E2%80%95-%E3%82%A8%E3%83%AA%E3%82%AA%E3%83%83%E3%83%88%E3%83%BB%E3%82%BD%E3%83%BC%E3%83%90%E3%83%BC/dp/4815807124/ref=sr_1_1?s=books&ie=UTF8&qid=1541402514&sr=1-1&keywords=%E7%B5%B1%E8%A8%88%E5%93%B2%E5%AD%A6)
