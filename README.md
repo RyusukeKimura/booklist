@@ -9,5 +9,6 @@
 ├── consulting_skills.md    <- コンサルスキルの本
 ├── ui_design.md            <- UIデザインの本
 ├── ux_design.md            <- UXデザインの本
+├── leader_management.md    <- リーダーとかマネージャー向けの本
 └── others.md               <- その他の本
 ```
