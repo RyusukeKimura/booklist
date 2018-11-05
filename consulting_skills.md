@@ -1,0 +1,10 @@
+# What's this??
+木村が読んでおいたほうが良いと思うコンサルスキルの本のリスト。<br/>
+これが身についたらデザインの本も読んでみよう！(ui_design.md)
+
+# Book List
+- [コミュニケーション技術―実用的文章の書き方](https://www.amazon.co.jp/コミュニケーション技術―実用的文章の書き方-中公新書-篠田-義明/dp/4121008073)
+- [考える技術・書く技術―問題解決力を伸ばすピラミッド原則](https://www.amazon.co.jp/dp/4478490279/ref=asc_df_44784902792514720/?tag=jpgo-22&creative=9303&creativeASIN=4478490279&linkCode=df0&hvadid=295639570041&hvpos=1o1&hvnetw=g&hvrand=5176076731723579288&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1028851&hvtargid=pla-524652633827&th=1&psc=1)
+- [仮説思考](https://www.amazon.co.jp/%E4%BB%AE%E8%AA%AC%E6%80%9D%E8%80%83-BCG%E6%B5%81-%E5%95%8F%E9%A1%8C%E7%99%BA%E8%A6%8B%E3%83%BB%E8%A7%A3%E6%B1%BA%E3%81%AE%E7%99%BA%E6%83%B3%E6%B3%95-%E5%86%85%E7%94%B0-%E5%92%8C%E6%88%90/dp/4492555552)
+- [論点思考](https://www.amazon.co.jp/%E8%AB%96%E7%82%B9%E6%80%9D%E8%80%83-%E5%86%85%E7%94%B0-%E5%92%8C%E6%88%90/dp/4492556559/ref=pd_bxgy_14_img_2?_encoding=UTF8&pd_rd_i=4492556559&pd_rd_r=74100e6f-e0e2-11e8-b373-8d88bb75f46f&pd_rd_w=Efy9C&pd_rd_wg=YINJM&pf_rd_i=desktop-dp-sims&pf_rd_m=AN1VRQENFRJN5&pf_rd_p=a4de75e6-d8f7-4a34-bd69-503ea4866e6c&pf_rd_r=7ZX2RCW1FVC7YHJKNBXY&pf_rd_s=desktop-dp-sims&pf_rd_t=40701&psc=1&refRID=7ZX2RCW1FVC7YHJKNBXY)
+- [イシューから始めよ](https://www.amazon.co.jp/%E3%82%A4%E3%82%B7%E3%83%A5%E3%83%BC%E3%81%8B%E3%82%89%E3%81%AF%E3%81%98%E3%82%81%E3%82%88%E2%80%95%E7%9F%A5%E7%9A%84%E7%94%9F%E7%94%A3%E3%81%AE%E3%80%8C%E3%82%B7%E3%83%B3%E3%83%97%E3%83%AB%E3%81%AA%E6%9C%AC%E8%B3%AA%E3%80%8D-%E5%AE%89%E5%AE%85%E5%92%8C%E4%BA%BA/dp/4862760856/ref=pd_sim_14_2?_encoding=UTF8&pd_rd_i=4862760856&pd_rd_r=7fa7bcc2-e0e2-11e8-9d19-195a55b171af&pd_rd_w=nzz96&pd_rd_wg=e2PCd&pf_rd_i=desktop-dp-sims&pf_rd_m=AN1VRQENFRJN5&pf_rd_p=68cfebef-f8b4-4691-9d72-a10f0956615a&pf_rd_r=KMNS292H0K574C36B1JJ&pf_rd_s=desktop-dp-sims&pf_rd_t=40701&psc=1&refRID=KMNS292H0K574C36B1JJ)
