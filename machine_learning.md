@@ -1,0 +1,34 @@
+# What's this??
+木村が読んでおいたほうが良いと思う機械学習の本のリスト。<br/>
+独断と偏見でレベル分けしています。
+
+# Book List
+## 機械学習なんぞ？って人向け
+- [はじめてのパターン認識](https://www.amazon.co.jp/%E3%81%AF%E3%81%98%E3%82%81%E3%81%A6%E3%81%AE%E3%83%91%E3%82%BF%E3%83%BC%E3%83%B3%E8%AA%8D%E8%AD%98-%E5%B9%B3%E4%BA%95-%E6%9C%89%E4%B8%89/dp/4627849710/ref=pd_lpo_sbs_14_img_1?_encoding=UTF8&psc=1&refRID=MNCJK39E0VVNPN45C1RB)
+
+## とりあえず機械学習動かしたい！って人向け
+- [Python 機械学習プログラミング](https://www.amazon.co.jp/Python-%E6%A9%9F%E6%A2%B0%E5%AD%A6%E7%BF%92%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0-%E9%81%94%E4%BA%BA%E3%83%87%E3%83%BC%E3%82%BF%E3%82%B5%E3%82%A4%E3%82%A8%E3%83%B3%E3%83%86%E3%82%A3%E3%82%B9%E3%83%88%E3%81%AB%E3%82%88%E3%82%8B%E7%90%86%E8%AB%96%E3%81%A8%E5%AE%9F%E8%B7%B5-impress-gear/dp/4295003379/ref=sr_1_4?s=books&ie=UTF8&qid=1541411283&sr=1-4&keywords=%E6%A9%9F%E6%A2%B0%E5%AD%A6%E7%BF%92) <-読んだことない
+
+## 機械学習ちゃんと勉強するぞー！って人向け
+- [パターン認識と機械学習 上](https://www.amazon.co.jp/%E3%83%91%E3%82%BF%E3%83%BC%E3%83%B3%E8%AA%8D%E8%AD%98%E3%81%A8%E6%A9%9F%E6%A2%B0%E5%AD%A6%E7%BF%92-%E4%B8%8A-C-M-%E3%83%93%E3%82%B7%E3%83%A7%E3%83%83%E3%83%97/dp/4621061224/ref=sr_1_3?s=books&ie=UTF8&qid=1541411283&sr=1-3&keywords=%E6%A9%9F%E6%A2%B0%E5%AD%A6%E7%BF%92)
+- [パターン認識と機械学習 下](https://www.amazon.co.jp/%E3%83%91%E3%82%BF%E3%83%BC%E3%83%B3%E8%AA%8D%E8%AD%98%E3%81%A8%E6%A9%9F%E6%A2%B0%E5%AD%A6%E7%BF%92-%E4%B8%8B-%E3%83%99%E3%82%A4%E3%82%BA%E7%90%86%E8%AB%96%E3%81%AB%E3%82%88%E3%82%8B%E7%B5%B1%E8%A8%88%E7%9A%84%E4%BA%88%E6%B8%AC-C-M-%E3%83%93%E3%82%B7%E3%83%A7%E3%83%83%E3%83%97/dp/4621061240/ref=pd_bxgy_14_img_2?_encoding=UTF8&pd_rd_i=4621061240&pd_rd_r=e6cd40aa-e0df-11e8-afc8-19cdea3ec1a8&pd_rd_w=rX5qy&pd_rd_wg=6yeEt&pf_rd_i=desktop-dp-sims&pf_rd_m=AN1VRQENFRJN5&pf_rd_p=a4de75e6-d8f7-4a34-bd69-503ea4866e6c&pf_rd_r=D4DFWTSFXB8ZXM31DX9S&pf_rd_s=desktop-dp-sims&pf_rd_t=40701&psc=1&refRID=D4DFWTSFXB8ZXM31DX9S)
+- [The Elements of Statistical Learning](https://web.stanford.edu/~hastie/Papers/ESLII.pdf)
+- [わかりやすいパターン認識](https://www.amazon.co.jp/%E3%82%8F%E3%81%8B%E3%82%8A%E3%82%84%E3%81%99%E3%81%84%E3%83%91%E3%82%BF%E3%83%BC%E3%83%B3%E8%AA%8D%E8%AD%98-%E7%9F%B3%E4%BA%95-%E5%81%A5%E4%B8%80%E9%83%8E/dp/4274131491/ref=pd_bxgy_14_img_2?_encoding=UTF8&pd_rd_i=4274131491&pd_rd_r=7eb0eb4c-e0e0-11e8-a74a-11cb475c3fb9&pd_rd_w=AdOii&pd_rd_wg=Nhshk&pf_rd_i=desktop-dp-sims&pf_rd_m=AN1VRQENFRJN5&pf_rd_p=a4de75e6-d8f7-4a34-bd69-503ea4866e6c&pf_rd_r=MNCJK39E0VVNPN45C1RB&pf_rd_s=desktop-dp-sims&pf_rd_t=40701&psc=1&refRID=MNCJK39E0VVNPN45C1RB)
+- [続・わかりやすいパターン認識―教師なし学習入門](https://www.amazon.co.jp/%E7%B6%9A%E3%83%BB%E3%82%8F%E3%81%8B%E3%82%8A%E3%82%84%E3%81%99%E3%81%84%E3%83%91%E3%82%BF%E3%83%BC%E3%83%B3%E8%AA%8D%E8%AD%98%E2%80%95%E6%95%99%E5%B8%AB%E3%81%AA%E3%81%97%E5%AD%A6%E7%BF%92%E5%85%A5%E9%96%80%E2%80%95-%E7%9F%B3%E4%BA%95-%E5%81%A5%E4%B8%80%E9%83%8E/dp/427421530X)
+- [データ解析のための統計モデリング入門――一般化線形モデル・階層ベイズモデル・MCMC](https://www.amazon.co.jp/%E3%83%87%E3%83%BC%E3%82%BF%E8%A7%A3%E6%9E%90%E3%81%AE%E3%81%9F%E3%82%81%E3%81%AE%E7%B5%B1%E8%A8%88%E3%83%A2%E3%83%87%E3%83%AA%E3%83%B3%E3%82%B0%E5%85%A5%E9%96%80%E2%80%95%E2%80%95%E4%B8%80%E8%88%AC%E5%8C%96%E7%B7%9A%E5%BD%A2%E3%83%A2%E3%83%87%E3%83%AB%E3%83%BB%E9%9A%8E%E5%B1%A4%E3%83%99%E3%82%A4%E3%82%BA%E3%83%A2%E3%83%87%E3%83%AB%E3%83%BBMCMC-%E7%A2%BA%E7%8E%87%E3%81%A8%E6%83%85%E5%A0%B1%E3%81%AE%E7%A7%91%E5%AD%A6-%E4%B9%85%E4%BF%9D-%E6%8B%93%E5%BC%A5/dp/400006973X/ref=pd_sbs_14_1?_encoding=UTF8&pd_rd_i=400006973X&pd_rd_r=b9e7ea98-e0e0-11e8-8fec-dbcea41f13f4&pd_rd_w=jyauJ&pd_rd_wg=V7PMz&pf_rd_i=desktop-dp-sims&pf_rd_m=AN1VRQENFRJN5&pf_rd_p=cda7018a-662b-401f-9c16-bd4ec317039e&pf_rd_r=FC0ZYHQ48Z790ZXZD8F9&pf_rd_s=desktop-dp-sims&pf_rd_t=40701&psc=1&refRID=FC0ZYHQ48Z790ZXZD8F9)
+
+## 自然言語処理やるぞー！って人向け
+- [深層学習による自然言語処理](https://www.amazon.co.jp/%E6%B7%B1%E5%B1%A4%E5%AD%A6%E7%BF%92%E3%81%AB%E3%82%88%E3%82%8B%E8%87%AA%E7%84%B6%E8%A8%80%E8%AA%9E%E5%87%A6%E7%90%86-%E6%A9%9F%E6%A2%B0%E5%AD%A6%E7%BF%92%E3%83%97%E3%83%AD%E3%83%95%E3%82%A7%E3%83%83%E3%82%B7%E3%83%A7%E3%83%8A%E3%83%AB%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA-%E5%9D%AA%E4%BA%95-%E7%A5%90%E5%A4%AA/dp/4061529242/ref=pd_bxgy_14_img_3?_encoding=UTF8&pd_rd_i=4061529242&pd_rd_r=ca1d8072-e0df-11e8-a3f6-416d58d0d1f8&pd_rd_w=Uesoz&pd_rd_wg=z2Ud0&pf_rd_i=desktop-dp-sims&pf_rd_m=AN1VRQENFRJN5&pf_rd_p=a4de75e6-d8f7-4a34-bd69-503ea4866e6c&pf_rd_r=Q6C3EB7JKZGJ7SFV8YDN&pf_rd_s=desktop-dp-sims&pf_rd_t=40701&psc=1&refRID=Q6C3EB7JKZGJ7SFV8YDN) <-読んだことない
+- [トピックモデル](https://www.amazon.co.jp/%E3%83%88%E3%83%94%E3%83%83%E3%82%AF%E3%83%A2%E3%83%87%E3%83%AB-%E6%A9%9F%E6%A2%B0%E5%AD%A6%E7%BF%92%E3%83%97%E3%83%AD%E3%83%95%E3%82%A7%E3%83%83%E3%82%B7%E3%83%A7%E3%83%8A%E3%83%AB%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA-%E5%B2%A9%E7%94%B0-%E5%85%B7%E6%B2%BB/dp/4061529048/ref=pd_sbs_14_2?_encoding=UTF8&pd_rd_i=4061529048&pd_rd_r=bad63827-e0df-11e8-afc8-19cdea3ec1a8&pd_rd_w=LgxLx&pd_rd_wg=G23US&pf_rd_i=desktop-dp-sims&pf_rd_m=AN1VRQENFRJN5&pf_rd_p=cda7018a-662b-401f-9c16-bd4ec317039e&pf_rd_r=G4215FWQZHK6K11M8VEB&pf_rd_s=desktop-dp-sims&pf_rd_t=40701&psc=1&refRID=G4215FWQZHK6K11M8VEB)
+- [トピックモデルによる統計的潜在意味解析](https://www.amazon.co.jp/%E3%83%88%E3%83%94%E3%83%83%E3%82%AF%E3%83%A2%E3%83%87%E3%83%AB%E3%81%AB%E3%82%88%E3%82%8B%E7%B5%B1%E8%A8%88%E7%9A%84%E6%BD%9C%E5%9C%A8%E6%84%8F%E5%91%B3%E8%A7%A3%E6%9E%90-%E8%87%AA%E7%84%B6%E8%A8%80%E8%AA%9E%E5%87%A6%E7%90%86%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA-%E4%BD%90%E8%97%A4%E4%B8%80%E8%AA%A0/dp/4339027588/ref=pd_sim_14_8?_encoding=UTF8&pd_rd_i=4339027588&pd_rd_r=b2f85cb6-e0df-11e8-9a74-157f153e26c6&pd_rd_w=JUEqx&pd_rd_wg=d5Yr0&pf_rd_i=desktop-dp-sims&pf_rd_m=AN1VRQENFRJN5&pf_rd_p=68cfebef-f8b4-4691-9d72-a10f0956615a&pf_rd_r=M32W3G7FVASNZBC27PVW&pf_rd_s=desktop-dp-sims&pf_rd_t=40701&psc=1&refRID=M32W3G7FVASNZBC27PVW)
+
+## 画像認識やるぞー！って人向け
+- [画像認識-機械学習プロフェッショナルシリーズ](https://www.amazon.co.jp/画像認識-機械学習プロフェッショナルシリーズ-原田-達也/dp/4061529129/ref=sr_1_2?s=books&ie=UTF8&qid=1541405756&sr=1-2&keywords=画像処理)
+
+## 音声認識やるぞー！って人向け
+- 音声認識したことないからわかんない。これから勉強します。
+
+## 深層学習やるぞー！って人向け
+木村深層学習苦手なので、あんちべさんのオススメから。
+- [ゼロから作るDeep Learning ―Pythonで学ぶディープラーニングの理論と実装](https://www.amazon.co.jp/ゼロから作るDeep-Learning-―Pythonで学ぶディープラーニングの理論と実装-斎藤-康毅/dp/4873117585/ref=sr_1_5?s=books&ie=UTF8&qid=1541404868&sr=1-5&keywords=機械学習) <- 読まなきゃ・・・
+
